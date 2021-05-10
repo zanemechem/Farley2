@@ -1,21 +1,14 @@
 {
 "companyName": "Zane Mechem",
 "productName": "Farley Building",
-<<<<<<< HEAD:Build/CNCBuild_2021_a4.json
-"productVersion": "0.8",
-"dataUrl": "CNCBuild_2021_a4.data.unityweb",
-"wasmCodeUrl": "CNCBuild_2021_a4.wasm.code.unityweb",
-"wasmFrameworkUrl": "CNCBuild_2021_a4.wasm.framework.unityweb",
-=======
 "productVersion": "0.1",
 "dataUrl": "webglCNC_02.data.unityweb",
 "wasmCodeUrl": "webglCNC_02.wasm.code.unityweb",
 "wasmFrameworkUrl": "webglCNC_02.wasm.framework.unityweb",
->>>>>>> parent of 7ab6a21 (a05):Build/webglCNC_02.json
 "graphicsAPI": ["WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
-"splashScreenStyle": "Light",
-"backgroundColor": "#828080",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
